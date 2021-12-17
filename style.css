@@ -28,7 +28,13 @@ body {
   max-height: 1000em;
 
 }
-
+.box img {
+  width: 50%;
+  height: 50%;
+}
+.imgContainer{
+  float:left;
+}
 
 
 .cover-container {
